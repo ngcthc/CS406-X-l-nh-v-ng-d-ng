@@ -1,0 +1,7 @@
+train: dataset/train/images
+val: dataset/val/images
+test: dataset/test/images
+path: c:\Users\Kaisaac\Documents\VSCode\CS406.O11\project
+nc: 12
+names: [apple, orange, lemon, avocado, cherry, coconut, banana, watermelon, pineapple,
+  kiwi, tomato, mango]
